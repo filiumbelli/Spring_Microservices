@@ -1,0 +1,13 @@
+For user creation
+{
+    "dateOfBirth":"1997-04-20",
+    "username":"Koniciva"
+}
+
+For post creation
+
+{
+    "postId":1,
+    "message": "Another sample message",
+    "title" : "Another sample title"
+}
